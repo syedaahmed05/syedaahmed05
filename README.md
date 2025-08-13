@@ -1,11 +1,11 @@
 ## Hi, I'm Syeda👋
 
-💻 Computer Science Student at Wayne State University
-⚙️ Interested in Software Development
-🛡️ Curious about Cybersecurity
-🤖 Exploring Artificial Intelligence
-📚 Currently learning: Java, Python, C++
-🚀 Goal: Building impactful and efficient software
+💻 Computer Science Student at Wayne State University <br>
+⚙️ Interested in Software Development<br>
+🛡️ Curious about Cybersecurity<br>
+🤖 Exploring Artificial Intelligence<br>
+📚 Currently learning: Java, Python, C++<br>
+🚀 Goal: Building impactful and efficient software<br><br>
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/syedaahmed05/) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ahmedsyeda005@gmail.com) 
